@@ -1,13 +1,15 @@
 
-header.h1 {
+.header {
     font-family: 'Roboto Condensed', serif;
     text-align: center;
     background-color: #04724D;
+    padding: 10px;
+    image-resolution: 200px;
     
 }
 
-header.img {
+/*
     height: auto;
-    width: 15%;
-    position:relative;
+    width: 5%;
+    position: relative;
 }
