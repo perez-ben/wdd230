@@ -1,4 +1,10 @@
 header {
     font-family: 'Roboto Condensed', serif;
-    color: #04724D;
+    text-align: center;
+    background-color: #04724D;
+}
+
+img {
+    height: auto;
+    width: 50%;
 }
