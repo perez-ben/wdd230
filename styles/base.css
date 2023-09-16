@@ -9,5 +9,5 @@ header.h1 {
 header.img {
     height: auto;
     width: 15%;
-    text-align: left;
+    position:relative;
 }
