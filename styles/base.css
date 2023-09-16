@@ -6,8 +6,8 @@ header {
 
 header h1 {
     font-family: 'Roboto Condensed', serif;
+    margin: auto;
     text-align: center;
- 
 }
 
 header img {
