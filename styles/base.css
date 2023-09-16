@@ -1,12 +1,12 @@
 
-header {
+header.h1 {
     font-family: 'Roboto Condensed', serif;
     text-align: center;
     background-color: #04724D;
     
 }
 
-img {
+header.img {
     height: auto;
     width: 25%;
 }
