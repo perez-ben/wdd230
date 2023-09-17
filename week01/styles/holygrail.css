@@ -10,10 +10,6 @@ body {
     grid-column: 1 / 4;
   }
   
-  .left-sidebar {
-    background: lightblue;
-    grid-column: 1 / 2;
-  }
   
   main {
     background: coral;
