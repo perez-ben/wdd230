@@ -1,6 +1,6 @@
 
 header {
-    background-color: #F7F7FF;
+    background-color: #c8bfc7;
     padding: 16px;
 }
 
@@ -30,7 +30,7 @@ header img {
 nav {
     background-color: #03440C;
     margin: 0 auto;
-    max-width: 800px;
+    max-width: 900px;
 }
 
 nav ul {
