@@ -1,6 +1,6 @@
 
 header {
-    background-color: #04724D;
+    background-color: #F7F7FF;
     padding: 16px;
 }
 
@@ -25,4 +25,26 @@ header img {
     display:flex;
     justify-content: center;
     align-items: center;
+}
+
+nav {
+    background-color: #03440C;
+    margin: 0 auto;
+    max-width: 800px;
+}
+
+nav ul {
+    list-style-type: none;
+}
+nav a {
+    display: block;
+    color: #f7f7ff;
+    text-align: center;
+    padding: 1rem;
+    text-decoration: none;
+}
+
+nav a.active {
+    background-color: #519872;
+    color: white;
 }
