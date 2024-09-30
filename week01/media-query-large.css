@@ -1,0 +1,11 @@
+header {
+    backgroung-color: black;
+    font-style: white;
+}
+
+main {
+    display: grid;
+    grid-template-columns: 2fr;
+    grid-gap: 1rem;
+}
+@media screen and (min-width: 500px)
