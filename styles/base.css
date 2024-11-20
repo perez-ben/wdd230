@@ -44,7 +44,12 @@ nav a {
     text-decoration: none;
 }
 
-nav a.active {
-    background-color: #519872;
+nav a:hover {
+background-color: rgba(255,255,255,0.2)
+
+}
+
+nav .active {
+    background-color: rgba(0,0,0,0.3);
     color: white;
 }
