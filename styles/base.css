@@ -1,4 +1,40 @@
 
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header, footer, nav {background-color: #bbb;}
+
+.parent {
+    margin: 1rem 2vw;
+}
+
+.parent section {
+    border: 1px solid #415541;
+    background-color: #e9f5e9;
+    border-radius: 10px;
+    overflow: hidden;
+    margin: 1rem 2vw;
+}
+
+.parent h2 {
+    background-color: #415541;
+    color: #fff;
+    display: block;
+    text-align: center;
+    padding: .75rem 0;
+}
+
+.parent p {
+    padding: 14px;
+}
+
+.parent a {
+    margin: 1rem 1rem 2vw;
+}
+
 header {
     background-color: #c8bfc7;
     padding: 16px;
@@ -36,6 +72,7 @@ nav {
 nav ul {
     list-style-type: none;
 }
+
 nav a {
     display: block;
     color: #f7f7ff;
@@ -53,3 +90,4 @@ nav .active {
     background-color: rgba(0,0,0,0.3);
     color: white;
 }
+
