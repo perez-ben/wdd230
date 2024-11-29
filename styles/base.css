@@ -66,19 +66,25 @@ header img {
 nav {
     background-color: #03440C;
     margin: 0 auto;
-    max-width: 900px;
 }
 
 nav ul {
     list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+}
+nav li {
+    float: left;
 }
 
 nav a {
     display: block;
     color: #f7f7ff;
     text-align: center;
-    padding: 1rem;
+    padding: 1.5rem;
     text-decoration: none;
+    margin-left: 2rem;
 }
 
 nav a:hover {
